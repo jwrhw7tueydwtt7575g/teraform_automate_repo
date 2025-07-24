@@ -1,7 +1,4 @@
- README.md (copy-paste ready)
-markdown
-Copy
-Edit
+
 # 🚀 Terraform GitHub Repo Automation
 
 This project automates the creation of a GitHub repository using Terraform and the `github` provider. Useful for DevOps pipelines, quick project setups, or bootstrapping GitHub infrastructure as code.
